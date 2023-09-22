@@ -16,7 +16,7 @@ This project was to refactor Horiseon's website codebase, to make it follow acce
 
 [Horiseon website](https://dee-here.github.io/horieson/)
 
-To make the code accessibility compliant and search engine optiomized, these are some of the changes made: 
+To make the code accessibility compliant and search engine optimized, these are some of the changes made: 
 * Use more semantic elements like header, footer, nav, aside etc instead of generic div and spans.
 * Images now have an accessible alt attribute.
 * HTML elements follow a logical structure without styling and positioning.
@@ -25,7 +25,7 @@ To make the code accessibility compliant and search engine optiomized, these are
 
 
 Other refactoring changes include:
-* Fix broken link of Search Engine Optimization nav link by adding the id to the specific article element.
+* Fix broken link of Search Engine Optimization navigation text by adding the id to the specific article element.
 * Renamed the generic "hero" class to more semantic class name.
 * Make the classes more reusable. Instead of using three classes benefits-lead, benefits-brand and benefits-cost which have the exact same properties, used a less specific selector to target the same elements.
 
@@ -33,9 +33,9 @@ Other refactoring changes include:
 
 ## Screenshots
 
-<img src="./assets/images/horiseon-header-screenshot.png" height="150" >
-<img src="./assets/images/horiseon-content-screenshot.png" height="150" >
-<img src="./assets/images/horiseon-content-footer-screenshot.png" height="150" >
+<img src="./assets/images/horiseon-header-screenshot.png" height="200" >
+<img src="./assets/images/horiseon-content-screenshot.png" height="200" >
+<img src="./assets/images/horiseon-content-footer-screenshot.png" height="200" >
 
 
 ## Code Refactoring
