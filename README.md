@@ -33,9 +33,9 @@ Other refactoring changes include:
 
 ## Screenshots
 
-<img src="./assets/images/horiseon-header-screenshot.png" height="100" >
-<img src="./assets/images/horiseon-content-screenshot.png" height="100" >
-<img src="./assets/images/horiseon-content-footer-screenshot.png" height="100" >
+<img src="./assets/images/horiseon-header-screenshot.png" height="150" >
+<img src="./assets/images/horiseon-content-screenshot.png" height="150" >
+<img src="./assets/images/horiseon-content-footer-screenshot.png" height="150" >
 
 
 ## Code Refactoring
@@ -109,10 +109,7 @@ header {
 
 ## Author Info
 
-```md
-### Deepak Sinha 
-
+Deepak Sinha
 
 * [Portfolio](https://dee-here.github.io/basic-landing-page/)
 * [Github](https://github.com/dee-here)
-```
